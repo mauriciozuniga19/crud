@@ -2,11 +2,10 @@
   "name": "nodedemo",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node crud-vendedores/app.js",
-    "start": "node crud-vendedores/app.js"
-  },
+"scripts": {
+  "dev": "node crud-vendedores/app.js",
+  "start": "node crud-vendedores/app.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
